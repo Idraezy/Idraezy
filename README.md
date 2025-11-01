@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hi, I'm Idara Etim — aka *Idraezy*
+# 👋 Hi, I'm Idara Etim 
 
 💻 **Frontend Developer | Blockchain Developer (in training)**  
 🚀 Passionate about building modern, interactive, and user-focused web applications.  
