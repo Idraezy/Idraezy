@@ -31,7 +31,7 @@ VS Code · Git · GitHub · Figma · Vercel · Netlify
 ---
 
 ## 🧩 Featured Projects
-- 🛒 **[Bella Store](#)** — E-commerce website built with React & Tailwind CSS  
+- 🛒 **[Dali Wears](#)** — E-commerce website built with React & Tailwind CSS  
 - 🎨 **[NFT Marketplace](#)** — Frontend for student NFT trading platform  
 - 💻 **[Portfolio Website](https://my-portfolio-idara-etim.vercel.app/)** — Showcasing my work & creative projects  
 
