@@ -31,8 +31,10 @@ VS Code · Git · GitHub · Figma · Vercel · Netlify
 ---
 
 ## 🧩 Featured Projects
-- 🛒 **[Dali Wears](#)** — E-commerce website built with React & Tailwind CSS  
-- 🎨 **[NFT Marketplace](#)** — Frontend for student NFT trading platform  
+
+- 📑 **[ATS Resume Checker](https://at-sify.vercel.app/)** — Resume solving website for matchings ATS and rebuilding better resume. Built with React, local storage & Tailwind CSS
+- 🛒 **[Dali Wears](https://dali-m2rk.vercel.app/)** — E-commerce website built with React & Tailwind CSS  
+- 🎨 **[NFT Marketplace](https://nft-marketplace-22.vercel.app/)** —NFT trading platform  
 - 💻 **[Portfolio Website](https://my-portfolio-idara-etim.vercel.app/)** — Showcasing my work & creative projects  
 
 ---
