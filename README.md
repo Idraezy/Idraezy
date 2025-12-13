@@ -33,6 +33,7 @@ VS Code · Git · GitHub · Figma · Vercel · Netlify
 ## 🧩 Featured Projects
 
 - 📑 **[ATS Resume Checker](https://at-sify.vercel.app/)** — Resume solving website for matchings ATS and rebuilding better resume. Built with React, local storage & Tailwind CSS
+- ✨ **[Landing Page Generator](https://landing-page-generator-taupe.vercel.app/)** — AI-powered landing page generator that enables users to create responsive, modern landing pages with customizable themes, animations, and real-time preview. Built with React, TypeScript, Tailwind CSS & Framer Motion
 - 🛒 **[Dali Wears](https://dali-m2rk.vercel.app/)** — E-commerce website built with React & Tailwind CSS  
 - 🎨 **[NFT Marketplace](https://nft-marketplace-22.vercel.app/)** —NFT trading platform  
 - 💻 **[Portfolio Website](https://my-portfolio-idara-etim.vercel.app/)** — Showcasing my work & creative projects  
