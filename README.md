@@ -43,7 +43,7 @@ VS Code · Git · GitHub · Figma · Vercel · Netlify
 
 ## 🌐 Connect With Me
 📧 **Email:** [idraezynoks@gmail.com](mailto:idraezynoks@gmail.com)  
-🌍 **Portfolio:** [my-portfolio-idara-etim.vercel.app](https://idaraetim-portfolio.vercel.app/)  
+🌍 **Portfolio:** [idaraetim-portfolio.vercel.app/](https://idaraetim-portfolio.vercel.app/)  
 🐙 **GitHub:** [github.com/Idraezy](https://github.com/Idraezy)  
 💼 **LinkedIn:** [linkedin.com/in/etimidaraubong](https://www.linkedin.com/in/etimidaraubong)  
 🐦 **Twitter/X:** [twitter.com/Idara_etimm](https://twitter.com/Idara_etimm)  
