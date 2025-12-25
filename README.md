@@ -37,13 +37,13 @@ VS Code · Git · GitHub · Figma · Vercel · Netlify
 - 💼 **[Smart Invoice](https://smart-invoice-eta.vercel.app/)** — Professional invoice generator that enables users to create, manage, and track invoices with automatic calculations, PDF export, and local storage. Built with React, TypeScript, Tailwind CSS & Framer Motion. Features include multi-item invoicing, tax calculations, status tracking (Draft/Sent/Paid), search & filter functionality, and dark/light theme support
 - 🛒 **[Dali Wears](https://dali-m2rk.vercel.app/)** — E-commerce website built with React & Tailwind CSS  
 - 🎨 **[NFT Marketplace](https://nft-marketplace-22.vercel.app/)** —NFT trading platform  
-- 💻 **[Portfolio Website](https://my-portfolio-idara-etim.vercel.app/)** — Showcasing my work & creative projects  
+- 💻 **[Portfolio Website](https://idaraetim-portfolio.vercel.app/)** — Showcasing my work & creative projects  
 
 ---
 
 ## 🌐 Connect With Me
 📧 **Email:** [idraezynoks@gmail.com](mailto:idraezynoks@gmail.com)  
-🌍 **Portfolio:** [my-portfolio-idara-etim.vercel.app](https://my-portfolio-idara-etim.vercel.app/)  
+🌍 **Portfolio:** [my-portfolio-idara-etim.vercel.app](https://idaraetim-portfolio.vercel.app/)  
 🐙 **GitHub:** [github.com/Idraezy](https://github.com/Idraezy)  
 💼 **LinkedIn:** [linkedin.com/in/etimidaraubong](https://www.linkedin.com/in/etimidaraubong)  
 🐦 **Twitter/X:** [twitter.com/Idara_etimm](https://twitter.com/Idara_etimm)  
