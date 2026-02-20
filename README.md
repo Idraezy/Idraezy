@@ -5,8 +5,10 @@
 🎯 Focused on performance, scalability, accessibility, and real-world problem solving.
 🌍 Based in Uyo, Nigeria
 
-🏆 Open To Work
+-----------------------------------------
 
+🏆 Open To Work
+--
 🔎 Currently open to:
 
 Frontend Developer Roles (Remote / Hybrid)
