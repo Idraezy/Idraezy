@@ -1,55 +1,94 @@
-# 👋 Hi, I'm Idara Etim 
+👋 Hi, I'm Idara Etim
+🚀 Frontend Engineer | Web3 Developer in Training | Building Scalable & User-Focused Web Apps
 
-💻 **Frontend Developer | Blockchain Developer (in training)**  
-🚀 Passionate about building modern, interactive, and user-focused web applications.  
-🎯 Focused on creating clean, performant, and scalable frontends with a strong eye for design and accessibility.  
+💻 I build modern, responsive, and interactive web applications with clean UI and smooth user experience.
+🎯 Focused on performance, scalability, accessibility, and real-world problem solving.
+🌍 Based in Uyo, Nigeria
 
----
+🏆 Open To Work
 
-## 🧠 About Me
-- 🧩 Currently interning at **Chaindustry** and **HNG Internship**  
-- 🌍 Based in **Uyo, Nigeria**  
-- 💡 Exploring **Blockchain**, **Smart Contracts**, and **Web3 Integration**  
-- ✍️ Occasionally write about **frontend tips**, **React**, and **Web3 concepts**  
-- 🎨 I also love **UI design** and building projects that merge creativity with logic  
+🔎 Currently open to:
 
----
+Frontend Developer Roles (Remote / Hybrid)
 
-## 🧰 Tech Stack
-**Languages:**  
-HTML · CSS · JavaScript · TypeScript  
+Internship Opportunities
 
-**Frameworks & Libraries:**  
-React.js · Next.js · Tailwind CSS · Framer Motion  
+Junior React / Next.js Positions
 
-**Blockchain (Training):**  
-Solidity · Smart Contract Development · Web3.js  
+Web3 / Blockchain Entry Roles
 
-**Tools & Platforms:**  
-VS Code · Git · GitHub · Figma · Vercel · Netlify  
+Freelance Projects
 
----
+📩 Let’s build something impactful → idraezynoks@gmail.com
 
-## 🧩 Featured Projects
+🧠 About Me
 
-- 📑 **[ATS Resume Checker](https://at-sify.vercel.app/)** — Resume solving website for matchings ATS and rebuilding better resume. Built with React, local storage & Tailwind CSS
-- ✨ **[Landing Page Generator](https://landing-page-generator-taupe.vercel.app/)** — AI-powered landing page generator that enables users to create responsive, modern landing pages with customizable themes, animations, and real-time preview. Built with React, TypeScript, Tailwind CSS & Framer Motion
-- 💼 **[Smart Invoice](https://smart-invoice-eta.vercel.app/)** — Professional invoice generator that enables users to create, manage, and track invoices with automatic calculations, PDF export, and local storage. Built with React, TypeScript, Tailwind CSS & Framer Motion. Features include multi-item invoicing, tax calculations, status tracking (Draft/Sent/Paid), search & filter functionality, and dark/light theme support
-- 🛒 **[Dali Wears](https://dali-m2rk.vercel.app/)** — E-commerce website built with React & Tailwind CSS  
-- 🎨 **[NFT Marketplace](https://nft-marketplace-22.vercel.app/)** —NFT trading platform  
-- 💻 **[Portfolio Website](https://idaraetim-portfolio.vercel.app/)** — Showcasing my work & creative projects  
+🧩 Interning at Chaindustry & HNG Internship
 
----
+💡 Exploring Blockchain, Smart Contracts & Web3 Integration
 
-## 🌐 Connect With Me
-📧 **Email:** [idraezynoks@gmail.com](mailto:idraezynoks@gmail.com)  
-🌍 **Portfolio:** [idaraetim-portfolio.vercel.app/](https://idaraetim-portfolio.vercel.app/)  
-🐙 **GitHub:** [github.com/Idraezy](https://github.com/Idraezy)  
-💼 **LinkedIn:** [linkedin.com/in/etimidaraubong](https://www.linkedin.com/in/etimidaraubong)  
-🐦 **Twitter/X:** [twitter.com/Idara_etimm](https://twitter.com/Idara_etimm)  
-📘 **Facebook:** [facebook.com/idaraetimm](https://facebook.com/idaraetimm)  
-📸 **Instagram:** [instagram.com/idaraetimm](https://instagram.com/idaraetimm)
+🎨 Passionate about UI/UX & creative problem solving
 
----
+🚀 Strong believer in learning by building
 
-⭐️ *“Code. Design. Innovate. Repeat.”*
+🌍 Languages
+
+🇬🇧 English (Fluent)
+
+🇳🇬 Ibibio (Native)
+
+🇫🇷 French (Intermediate)
+
+🏛 Latin (Beginner)
+
+⚔️ My Arsenal
+💻 Tech Stack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🛠 Tools
+
+
+
+
+
+
+🌐 Live Portfolio
+
+🚀 Personal Portfolio Website
+🔗 https://idaraetim-portfolio.vercel.app/
+
+🚀 Featured Projects
+
+📑 ATS Resume Checker — https://at-sify.vercel.app/
+
+✨ Landing Page Generator — https://landing-page-generator-taupe.vercel.app/
+
+💼 Smart Invoice — https://smart-invoice-eta.vercel.app/
+
+🛒 Dali Wears — https://dali-m2rk.vercel.app/
+
+🎨 NFT Marketplace — https://nft-marketplace-22.vercel.app/
+
+🤝 Let’s Connect
+
+📧 Email: idraezynoks@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/etimidaraubong
+
+🐦 Twitter/X: https://twitter.com/Idara_etimm
+
+⭐️ “Code. Design. Innovate. Repeat.”
