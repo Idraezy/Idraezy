@@ -1,11 +1,11 @@
 #👋 Hi, I'm Idara Etim
-**🚀 Frontend Engineer | Web3 Developer in Training | Building Scalable & User-Focused Web Apps**
+**🚀 Frontend Engineer | Web3 Developer in Training | Building Scalable & User-Focused Web Apps**#
 ---
 💻 I build modern, responsive, and interactive web applications with clean UI and smooth user experience.
 🎯 Focused on performance, scalability, accessibility, and real-world problem solving.
 🌍 Based in Uyo, Nigeria
 ---
-#🏆 Open To Work
+#🏆 Open To Work#
 
 🔎 Currently open to:
 
