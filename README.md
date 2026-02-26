@@ -7,6 +7,7 @@
 
 
 
+
 # 🏆 Open To Work
 
 ### 🔎 Currently open to:
@@ -25,6 +26,7 @@
 
 
 
+
 # 🧠 About Me
 
 - 🧩 Interning at **Chaindustry, FlexiSAF & HNG Internship**
@@ -38,6 +40,7 @@
 - 🚀 Constantly **improving through real-world projects**
 
 **📩 Let’s build something impactful → https://idaraetim-portfolio.vercel.app/**
+
 
 
 
@@ -62,6 +65,7 @@
 - VS Code
 - Git
 - Figma
+
 
 # 🌐 Live Projects
 
@@ -90,25 +94,26 @@ Includes PDF export, invoice tracking & advanced filtering
 🔗 https://idaraetim-portfolio.vercel.app/
 
 
+
 # 🌐 Connect With Me
 
-**📧 Email: idraezynoks@gmail.com**
+- **🌐 Portfolio:** [idaraetim-portfolio.vercel.app](https://idaraetim-portfolio.vercel.app/)
 
-**💼 LinkedIn: https://www.linkedin.com/in/etimidaraubong**
+- **📧 Email:** idraezynoks@gmail.com
 
-**📘 Facebook: https://facebook.com/idaraetimm**
+- **💼 LinkedIn:** [etimidaraubong](https://www.linkedin.com/in/etimidaraubong)
 
-**🐦 Twitter (X): https://twitter.com/Idara_etimm**
+- **📘 Facebook:** [idaraetimm](https://facebook.com/idaraetimm)
 
-**💻 GitHub: https://github.com/Idraezy**
+- **🐦 Twitter (X):** [@Idara_etimm](https://twitter.com/Idara_etimm)
 
-**📸 Instagram: https://instagram.com/idaraetimm**
+- **💻 GitHub:** [Idraezy](https://github.com/Idraezy)
 
-**✉️ Direct Email Link: mailto:idraezynoks@gmail.com**
+- **📸 Instagram:** [@idaraetimm](https://instagram.com/idaraetimm)
 
-**💬 WhatsApp: https://wa.me/2347045256955**
+- **💬 WhatsApp:** [Chat with me](https://wa.me/2347045256955)
 
-**🎵 TikTok: https://tiktok.com/@idara_etim**
+- **🎵 TikTok:** [@idara_etim](https://tiktok.com/@idara_etim)
 
 
 ⭐️ “Code. Design. Innovate. Repeat.”
