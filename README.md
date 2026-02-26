@@ -4,6 +4,8 @@
 💻 I build modern, responsive, and interactive web applications with clean UI and smooth user experience.
 🎯 Focused on performance, scalability, accessibility, and real-world problem solving.
 🌍 Based in Uyo, Nigeria
+
+
 -
 🏆 Open To Work
 
@@ -20,6 +22,8 @@ Web3 / Blockchain Entry Roles
 Freelance Projects
 
 📩 Let’s build something impactful together → idraezynoks@gmail.com
+
+
 -
 🧠 About Me
 
@@ -34,6 +38,8 @@ Freelance Projects
 🚀 Constantly improving through real-world projects
 
 📩 Let’s build something impactful → idraezynoks@gmail.com
+
+
 -
 🧰 Tech Stack
 💻 Languages
@@ -60,6 +66,8 @@ Freelance Projects
 
 
 🛠️ Tools
+
+
 -
 🌐 Live Projects
 
@@ -86,6 +94,8 @@ Includes PDF export, invoice tracking & advanced filtering
 
 🚀 Personal Portfolio Website
 🔗 https://idaraetim-portfolio.vercel.app/
+
+
 -
 🌐 Connect With Me
 
@@ -96,11 +106,12 @@ Includes PDF export, invoice tracking & advanced filtering
 💼 LinkedIn: https://linkedin.com/in/etimidaraubong
 
 🐦 Twitter/X: https://twitter.com/Idara_etimm
+
+
 -
 ⭐️ “Code. Design. Innovate. Repeat.”
--
-## 📊 GitHub Stats
 
-![Idara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Idraezy&show_icons=true&theme=tokyonight)
+
+-
 
 ⭐️ *“Code. Design. Innovate. Repeat.”*
