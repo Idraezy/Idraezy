@@ -95,7 +95,6 @@ Includes PDF export, invoice tracking & advanced filtering
 🚀 Personal Portfolio Website
 🔗 https://idaraetim-portfolio.vercel.app/
 
-
 -
 🌐 Connect With Me
 
@@ -111,7 +110,3 @@ Includes PDF export, invoice tracking & advanced filtering
 -
 ⭐️ “Code. Design. Innovate. Repeat.”
 
-
--
-
-⭐️ *“Code. Design. Innovate. Repeat.”*
