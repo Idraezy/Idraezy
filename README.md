@@ -42,7 +42,7 @@ Freelance Projects
 
 -
 # 🧰 Tech Stack
-** 💻 Languages **
+**💻 Languages**
 
 
 
