@@ -6,7 +6,7 @@
 🌍 Based in Uyo, Nigeria
 
 
--
+
 # 🏆 Open To Work
 
 ### 🔎 Currently open to:
@@ -24,23 +24,23 @@
 **📩 Let’s build something impactful together → idraezynoks@gmail.com**
 
 
--
+
 # 🧠 About Me
 
-🧩 Interning at **Chaindustry, FlexiSAF & HNG Internship**
+- 🧩 Interning at **Chaindustry, FlexiSAF & HNG Internship**
 
-💡 Exploring **Blockchain, Smart Contracts & Web3 Integration**
+- 💡 Exploring **Blockchain, Smart Contracts & Web3 Integration**
 
-✍️ Share insights on **React, Frontend Architecture & Web3**
+- ✍️ Share insights on **React, Frontend Architecture & Web3**
 
-🎨 Passionate about **UI/UX and creative problem solving**
+- 🎨 Passionate about **UI/UX and creative problem solving**
 
-🚀 Constantly improving through real-world projects
+- 🚀 Constantly **improving through real-world projects**
 
 **📩 Let’s build something impactful → https://idaraetim-portfolio.vercel.app/**
 
 
--
+
 # 🧰 Tech Stack
 **💻 Languages**
 - English
@@ -65,42 +65,51 @@
 
 # 🌐 Live Projects
 
-**🚀 ATS Resume Checker**
+- **🚀 ATS Resume Checker**
 🔗 https://at-sify.vercel.app/
 
 Built with React, Local Storage & Tailwind CSS
 
-**🚀 Landing Page Generator**
+- **🚀 Landing Page Generator**
 🔗 https://landing-page-generator-taupe.vercel.app/
 
 Built with React, TypeScript, Tailwind CSS & Framer Motion
 
-**🚀 Smart Invoice Generator**
+- **🚀 Smart Invoice Generator**
 🔗 https://smart-invoice-eta.vercel.app/
 
 Includes PDF export, invoice tracking & advanced filtering
 
-**🚀 Dali Wears (E-commerce)**
+- **🚀 Dali Wears (E-commerce)**
 🔗 https://dali-m2rk.vercel.app/
 
-**🚀 NFT Marketplace**
+- **🚀 NFT Marketplace**
 🔗 https://nft-marketplace-22.vercel.app/
 
-**🚀 Personal Portfolio Website**
+- **🚀 Personal Portfolio Website**
 🔗 https://idaraetim-portfolio.vercel.app/
 
--
+
 # 🌐 Connect With Me
 
 **📧 Email: idraezynoks@gmail.com**
 
-**🌍 Portfolio: https://idaraetim-portfolio.vercel.app/**
+**💼 LinkedIn: https://www.linkedin.com/in/etimidaraubong**
 
-**💼 LinkedIn: https://linkedin.com/in/etimidaraubong**
+**📘 Facebook: https://facebook.com/idaraetimm**
 
-**🐦 Twitter/X: https://twitter.com/Idara_etimm**
+**🐦 Twitter (X): https://twitter.com/Idara_etimm**
+
+**💻 GitHub: https://github.com/Idraezy**
+
+**📸 Instagram: https://instagram.com/idaraetimm**
+
+**✉️ Direct Email Link: mailto:idraezynoks@gmail.com**
+
+**💬 WhatsApp: https://wa.me/2347045256955**
+
+**🎵 TikTok: https://tiktok.com/@idara_etim**
 
 
--
 ⭐️ “Code. Design. Innovate. Repeat.”
 
