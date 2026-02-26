@@ -9,7 +9,7 @@
 -
 # 🏆 Open To Work
 
-## 🔎 Currently open to:
+### 🔎 Currently open to:
 
 Frontend Developer Roles (Remote / Hybrid)
 
@@ -42,7 +42,7 @@ Freelance Projects
 
 -
 # 🧰 Tech Stack
-## 💻 Languages
+** 💻 Languages **
 
 
 
