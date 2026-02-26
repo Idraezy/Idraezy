@@ -7,9 +7,9 @@
 
 
 -
-🏆 Open To Work
+#🏆 Open To Work
 
-🔎 Currently open to:
+##🔎 Currently open to:
 
 Frontend Developer Roles (Remote / Hybrid)
 
@@ -25,7 +25,7 @@ Freelance Projects
 
 
 -
-🧠 About Me
+#🧠 About Me
 
 🧩 Interning at Chaindustry & HNG Internship
 
@@ -41,8 +41,8 @@ Freelance Projects
 
 
 -
-🧰 Tech Stack
-💻 Languages
+#🧰 Tech Stack
+##💻 Languages
 
 
 
