@@ -1,5 +1,5 @@
 👋 Hi,  **I'm Idara Etim**
-🚀 **Frontend Engineer | Web3 Developer in Training | Building Scalable & User-Focused Web Apps**
+🚀 **Fullstack Engineer | Senior Frontend Developer | Web3 Developer in Training | Building Scalable & User-Focused Web Apps**
 
 💻 I build modern, responsive, and interactive web applications with clean UI and smooth user experience.
 🎯 Focused on performance, scalability, accessibility, and real-world problem solving.
@@ -12,7 +12,9 @@
 
 ### 🔎 Currently open to:
 
-- Frontend Developer Roles (Remote / Hybrid)
+- Fullstack Developer Roles (Remote / Hybrid)
+
+- Frontend Devloper Roles
 
 - Internship Opportunities
 
@@ -64,15 +66,30 @@
 - Latin (Beginner)
 
 **⚛️ Frameworks & Libraries**
+
+**Frontend Development**
 - HTML
 - CSS
 - JavaScript
 - TypeScript
 - React.js
 - Next.js
-- Solidity
 - Tailwind CSS
 - Framer Motion
+
+** Backend Development**
+- Node.js
+- Express.js
+- REST APIs
+- Authentication
+- Database
+- PostgreSQL
+- Supabase
+
+**Blockchain**
+- Solidity
+- Web3.js
+- Ethers.js
 
 **🛠️ Tools**
 - VS Code
@@ -81,13 +98,16 @@
 - Figma
 - Netlify
 - Vercel
+- Postman
+- Docker
+- npm
 
 # 🌐 Currently Learning
 
 • Smart Contracts
 • Web3 Integration
 • Blockchain Development
-• Advanced Frontend Architecture
+• Advanced Backend
 
 
 # 🌐 Live Projects
@@ -97,7 +117,10 @@
 🔗 https://dali-m2rk.vercel.app/
 
 - **🚀 City De Fitness**
-🔗[ City De Fitness](https://github.com/Idraezy/city-de-fitness)
+🔗[https://citydefitness-ten.vercel.app/](https://citydefitness-ten.vercel.app/))
+
+- **🚀 PetPi**
+🔗[https://petpi.vercel.app/](https://petpi.vercel.app/)
 
 - **🚀 ApplyNow Admission Portal**
 🔗 [https://applynow-admissions-portal.vercel.app/](https://applynow-admissions-portal.vercel.app/)
